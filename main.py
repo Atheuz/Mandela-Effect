@@ -17,8 +17,7 @@ FLIPFLOPS = [("Houston, we've had a problem", 'Houston, we have a problem'),
               'Life is like a box of chocolates'),
              ('Monopoly man does not have a monocle', 'Monopoly man has a monocle'),
              ('JCPenney', 'JCPenny'),
-             ('NOT of the world', 'of the world'),
-             ('Mona Lina smirks', 'Mona Lisa does not smirk'),
+             ('Mona Lisa smirks', 'Mona Lisa does not smirk'),
              ('KitKat', 'Kit-Kat'),
              ('Interview with the Vampire', 'Interview with a Vampire'),
              ('Magic Mirror on the Wall', 'Mirror, Mirror on the Wall'),
@@ -28,10 +27,10 @@ FLIPFLOPS = [("Houston, we've had a problem", 'Houston, we have a problem'),
               'Im a barbie girl, in a barbie world'),
              ('Daylight Saving Time', 'Daylight Savings Time'),
              ('Looney Tunes', 'Looney Toons'),
-             ('Pixie Stix', 'Pixy Stix'),
+             ('Pixy Stix', 'Pixie Stix'),
              ('Chartreuse = Green', 'Chartreuse = Reddish'),
              ('Febreze', 'Febreeze'),
-             ('Cup O Noodles', 'Cup Noodles'), ]
+             ('Cup Noodles', 'Cup O Noodles'), ]
 
 
 def main():
